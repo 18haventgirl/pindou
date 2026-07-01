@@ -1,7 +1,3 @@
-# 像素拼豆图纸生成器
-
-> Pixel Bead Pattern Generator — v1.0.2
-
 ---
 
 ## 功能
